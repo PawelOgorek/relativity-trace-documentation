@@ -29,7 +29,7 @@ Ensure the following Relativity Instance components are appropriately configured
 
 -   dtSearch Search
 
--   Application Installation Manager
+-   Application Installation Worker
 
 -   Integration Points Agent (need to install [Relativity Integration Points](https://platform.relativity.com/RelativityOne/index.htm#Relativity_Integration_Points/Get_started_with_integration_points.htm) first)
     
